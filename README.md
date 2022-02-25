@@ -179,3 +179,5 @@ Strict-Transport-Security: max-age=63072000; preload
 - https://www.scottbrady91.com/jose/jwts-which-signing-algorithm-should-i-use
 - https://blog.frickjack.com/2021/04/sign-and-verify-jwt-with-es256.html
 - https://www.jfrog.com/jira/browse/RTFACT-24490
+- https://github.com/opencontainers/image-spec/issues/743
+- https://gist.github.com/aaronlehmann/b42a2eaf633fc949f93b#id-definitions-and-calculations
