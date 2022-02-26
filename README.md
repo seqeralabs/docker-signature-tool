@@ -172,6 +172,8 @@ Strict-Transport-Security: max-age=63072000; preload
 
 ### Links
 - https://docs.docker.com/registry/spec/manifest-v2-1
+- https://github.com/opencontainers/image-spec/blob/v1.0.0/config.md
+- https://gist.github.com/aaronlehmann/b42a2eaf633fc949f93b#id-definitions-and-calculations
 - https://github.com/moby/moby/blob/master/image/spec/v1.md
 - https://stackoverflow.com/questions/71188800/how-to-create-and-validate-docker-signed-manifests?noredirect=1#comment125840233_71188800
 - https://github.com/containers/skopeo/issues/526#issuecomment-411901330 <<< 
