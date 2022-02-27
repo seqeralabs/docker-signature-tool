@@ -183,3 +183,4 @@ Strict-Transport-Security: max-age=63072000; preload
 - https://www.jfrog.com/jira/browse/RTFACT-24490
 - https://github.com/opencontainers/image-spec/issues/743
 - https://gist.github.com/aaronlehmann/b42a2eaf633fc949f93b#id-definitions-and-calculations
+- https://github.com/moby/moby/issues/8093
